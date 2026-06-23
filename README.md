@@ -65,7 +65,7 @@
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,c++" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,c++" />
 </p>
 
 ### Tools & Technologies
