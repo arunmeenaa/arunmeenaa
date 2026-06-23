@@ -71,13 +71,7 @@
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,bun" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,bun" />
 </p>
 
 ---
