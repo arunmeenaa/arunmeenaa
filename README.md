@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **HelpNet**
 - 🌱 I’m improving my skills in **MERN Stack, Next.js, React, and Backend Development**
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/arunmeenaa)
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, and JavaScript,C,C++,JAVA**
+- 💬 Ask me about **MERN,JavaScript,C,C++,JAVA**
 - 📫 Reach me at: **meenaarun738@gmail.com**
 - 🌐 Portfolio: [arunsportfolioo.netlify.app](https://arunsportfolioo.netlify.app/)
 - ⚡ I enjoy building clean, responsive, and user-focused web applications.
